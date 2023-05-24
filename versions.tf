@@ -16,7 +16,7 @@ terraform {
     }
     okta = {
       source  = "okta/okta"
-      version = "~> 3.38"
+      version = "~> 4.0"
     }
     fivetran = {
       source  = "fivetran/fivetran"
