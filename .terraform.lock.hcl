@@ -52,21 +52,17 @@ provider "registry.terraform.io/cyrilgdn/postgresql" {
 }
 
 provider "registry.terraform.io/eddycharly/kops" {
-  version     = "1.23.4"
-  constraints = "1.23.4"
+  version     = "1.25.4"
+  constraints = "1.25.4"
   hashes = [
-    "h1:0Ke3LxIgWqpMu1wpXHONyAbESUm6jCCliZma22qXOl0=",
-    "h1:553cGzcFnWrCghcebiuTFMjwDAKIlewX1SpCvksR0rI=",
-    "h1:bKOB8GKDxuXozy/iQRt7YdGknxJBdfWKzt65yTKRvcE=",
-    "h1:pl1YO/as29vZMSnIcA0Q86f58Of9zUgKgM9fwbRI6TQ=",
-    "zh:0e47a393be73af75fba3b7104f0c43732f929ff460a398a6c8d98ea249634292",
-    "zh:3325e6a6aadc1845b8d4249cd323d1b2d5941e388ecfd76f94da70ae43cb5555",
-    "zh:40704dee808cfac6f03d3ecab6347a4e86379e167a7d02bcca70b962495dd80a",
-    "zh:509110d54efad0cf381d9d1c38af150b76544d9bbebaf56933860fa7f5fc2179",
-    "zh:85d1d44810ee4aedd1927f3c2cbfc1b656ff967188fcf88daa0efe23c7b5b67c",
-    "zh:86e08cc9926049a3d8e3a658ef7bc10906a12575ab9b9993c4c813db9003468d",
-    "zh:d2533b7d06155d8bdd64e30b1c75f6d2b0dd6b315821ff0c9875538cbb477a08",
-    "zh:d773df934d9fb91f97b6a9a639052e4eb1c8a382b2e2945869f56b430a221172",
+    "h1:4rB9tWersEhv+TCN9VP2MW+xNpULIfrNM1fg8rt6D4g=",
+    "h1:DjsCUColJy8IHeeasSdZymEDcamk8BLjgWRFdVJfI8A=",
+    "h1:JcPG4hcI/A1Y2K/J1rxMNFrBERjg/FOqDp4FUzFOXxg=",
+    "h1:L8/cKuKgah4CJ3fxR6WI0/gQFIQUxy2xvX+NbcnqzwA=",
+    "h1:cYxm7tZ2JkcU9Ozi1RJHoOjgZ6/MCiFFkG2c9LXNaA8=",
+    "h1:i7Acyh4nwUojYd08unfnCKFmh+x6zSujYZUer1eI9W8=",
+    "h1:t8QKFEfttUQZDMvEg39FpX1JKuHYrNMc9r07AkDMt+0=",
+    "h1:yyuEf1mRRqbDh7heIX/xzB4dcZIiZA7tIQ4i0h2ku0w=",
   ]
 }
 
