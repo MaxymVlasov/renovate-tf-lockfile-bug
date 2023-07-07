@@ -71,26 +71,22 @@ provider "registry.terraform.io/eddycharly/kops" {
 }
 
 provider "registry.terraform.io/fivetran/fivetran" {
-  version     = "0.6.19"
-  constraints = "~> 0.6.0"
+  version     = "0.7.1"
+  constraints = "~> 0.7.0"
   hashes = [
-    "h1:5NJeBq+YO1UcLZXzUloWGDpNAJ9EzbyRjwnUuuuLkD4=",
-    "h1:9nPs/PkPxjwND73agLBdL1O42BQRSf1cJa5kf3hw+5s=",
-    "h1:Hl89Jo4eeH/ZCpQsGIYzKu+8FebvTl8hHjGriJ2fthA=",
-    "h1:xy2ihvGFcuJ4PSzkMqvPVIOU+21Tm3M84Kc1+dwBkfE=",
-    "zh:18305ce2a40a96de7aae7670995d98842ea883580cbf30d210c43e115e04fd89",
-    "zh:25ce3ae6451bfc165c303b9ca5af91bf88616a3f045f64433b13cc46f72d6897",
-    "zh:3430cb3970972d29b3ad647bec20f1a88fc75df799ac9a37681fc81412c38132",
-    "zh:388413069fe0ff734c1223fb4f507bbe2ab5992a4a8b418dfe933a3d672679dc",
-    "zh:70e0addbc539a923c9645651211b7f8e7de30277605f2cfa1acfabbfc3410fa5",
-    "zh:7429b4ff3bdd87bfaeafb902acb243e6ff1aa7f53f5efd3dcf90daf0f11f7dea",
-    "zh:827da917f9dd4f4e9d9c2634c8a5f6eb34317dbe4854f1ba7b51500663b6424b",
-    "zh:a681b1f5b5cd213f152d78f27481b63f67789ed742fa000fb892398ac2029e05",
-    "zh:b6b9a8258deb57ebdd7d4e86796cda7d1dce06b6a79cb3918ffa5f170c2631a1",
-    "zh:c42311a58aac30caea48e0aefacddbb779f39f3c227e1ab0ae57407452218923",
-    "zh:e3942029f4730b027437324c677b6b370efd504d2d4735caff41bce21782db35",
-    "zh:efcb0f98b5f3f984b4320193c84b98a75a6a4cf8fb5de6bf61720fe6b1d5fe1e",
-    "zh:f45ac27b48471f1a0df98a5e597372bc930c717dcb332734ca7ea0dd8efb5619",
+    "h1:41jXpuPEgRLZYFGWTjn+516ySA3Z5B5a8qB7ARiogYk=",
+    "h1:CkzhE0/EJ+lOHaOf077EvXhr41G8BFLVP+Qg709myjo=",
+    "h1:DEAxBW7aHVaQ6sOa+Rm6avde13NP7sp88ESLxltASHo=",
+    "h1:K67fs8u7KVPzhFR/9tkpsoIP1GbWEP5cK7PSjJy8vj0=",
+    "h1:N+V7GwGsMR60vmYqC685GngRn1az+rpiuxVnc3uc1u4=",
+    "h1:OAOQEU8CappU4sUVhSdR5vp0NHbulSeUZeGW/YIQR6Y=",
+    "h1:SppU3VPSDdkwgk77ULt3qjT4wCrW7HAuzIPB7uEgmQk=",
+    "h1:V8i5/vhiZAJIOnETh9ANWXRSGvX0I9BatqC73Bfntxc=",
+    "h1:aPYrajt5ydMOjm19d2exiKMi3tteek1zyyD6z2P3NwE=",
+    "h1:cf5jZZox1V3bQ9/FJoiwRc1Rnj+EmlKrn2XupvvZUpY=",
+    "h1:e7R7aG6Y7K5XrCv88shy517o8ddeFxosLrV1wLIwD4Y=",
+    "h1:mk9+GKca3437g4EybSE/Fulnin70KuRvGl5UiUrVu6Y=",
+    "h1:vbuOgrYJsc/YNsVD9al1oYgGoKksMcpJEfQGB3yfd6s=",
   ]
 }
 
