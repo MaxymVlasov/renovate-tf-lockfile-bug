@@ -24,7 +24,7 @@ terraform {
     }
     postgresql = {
       source  = "cyrilgdn/postgresql"
-      version = "~> 1.18.0"
+      version = "~> 1.20.0"
     }
     kops = {
       source  = "eddycharly/kops"
